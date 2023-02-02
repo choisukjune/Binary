@@ -2,6 +2,6 @@
 */
 
 # files
-
+.Ds_Store
 *.result
 _cmd.exe
